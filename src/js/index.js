@@ -36,7 +36,7 @@ setInterval(function() {
 	const digito3 = Math.floor(contador / 100);
 	const digito2 = Math.floor(contador / 10);
 	const digito1 = Math.floor(contador / 1);
-	Console.log(digito4, digito3, digito2, digito1);
+	console.log(digito4, digito3, digito2, digito1);
 
 	contador++;
 
